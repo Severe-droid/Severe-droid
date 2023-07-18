@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AbdulAziz
-- 👀 I’m interested in Computer vision
+- 👀 I’m interested in Computer vision and AI
 - 🌱 I’m currently in school
 
 <!---
